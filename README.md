@@ -1,6 +1,13 @@
-# suspicious-domains-clustered
+# COBRA: A Content-Agnostic Framework for Zero-Day Detection of Suspicious Domains
 
-Suspicious domains that our novel algorithm identified
+## About
+
+In this repository we make publicly available:
+1. A list of suspicious domains that our novel algorithm identified.
+
+For more information please read our paper: COBRA: A Content-Agnostic Framework for Zero-Day Detection of Suspicious Domains
+
+If you use this dataset in any way, please cite our work.
 
 # Disclaimer
 
@@ -21,3 +28,17 @@ and responsibilities. The authors and affiliated institutions cannot be
 held responsible or liable for any direct, indirect, or consequential
 damages, losses, or legal consequences resulting from the use or misuse
 of this domain list.
+
+## Contributors
+
+* [Alexandros Fourtounis](https://github.com/AlexandrosFourtounis)
+
+## Support
+
+Please contact one of the project's contributors.
+
+## License
+
+This project is released under under the MIT License.
+By installing, copying or otherwise using this dataset, you agree to be bound
+by the terms of the provided License.
