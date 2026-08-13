@@ -7,7 +7,22 @@ In this repository we make publicly available:
 
 For more information please read our paper: COBRA: A Content-Agnostic Framework for Zero-Day Detection of Suspicious Domains
 
-If you use this dataset in any way, please cite our work.
+If you use this dataset in any way, please cite our work:
+
+```bibtex
+@conference{secrypt26,
+author={Alexandros Fourtounis and Emmanouil Papadogiannakis and Panagiotis Papadopoulos and Nicolas Kourtellis and Evangelos Markatos},
+title={COBRA: A Content-Agnostic Framework for Zero-Day Detection of Suspicious Domains},
+booktitle={Proceedings of the 23rd International Conference on Security and Cryptography - Volume 1: SECRYPT},
+year={2026},
+pages={37-48},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0015000800004103},
+isbn={978-989-758-858-7},
+issn={2184-7711},
+}
+```
 
 ## Disclaimer
 
